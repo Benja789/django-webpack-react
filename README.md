@@ -4,4 +4,4 @@ For connect the framework has using Webpack and Babel
 
 All changes in the frontend needs the commando npm run start for generate the packege.
 
-Is base code and can your style.
+Is base code and you can modify it your style.
