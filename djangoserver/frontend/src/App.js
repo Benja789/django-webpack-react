@@ -20,6 +20,7 @@ function App() {
         > Learn React </a>
         <h1>Página actualizada</h1>
         <p>Esta pagina esta hecha mediante react y siendo renderizada por medio de un servidor de Django</p>
+        <h1>Etiqueta nueva</h1>
       </header>
     </div>
   );
